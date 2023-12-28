@@ -1,0 +1,13 @@
+Requirements
+	numpy==1.26.2
+	pandas==2.1.4
+	psycopg2==2.9.9
+	python-dateutil==2.8.2
+	pytz==2023.3.post1
+	six==1.16.0
+	tzdata==2023.3
+
+When you want to run the code:
+	First of all create a virtual environment then activate it.
+	Then install all the requirements using the command "pip install -r requirements.txt".
+	After the installation of all the requirements, you can run the insights_and_analysis.py file for the results.
